@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ScottMelzer
 - 👀 I’m interested in Front-End Developer positions.
-- 🌱 I’m currently learning Node, Express, React.
+- 🌱 I’m currently learning Vue and React.
 - 💞️ I’m looking to collaborate on Javascript or React projects.
-- 📫 Reach me at scott.melzer@gmail.com.
+- 📫 Reach me at scottmelzer@pm.me.
 
 <!---
 ScottMelzer/ScottMelzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
